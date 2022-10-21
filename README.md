@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development, Data Science
 - 🌱 I’m currently learning Gloabal Payment Application
 - - 📫 How to reach me https://www.linkedin.com/in/anurag-29/
-- <!---
+ <!---
 - 💞️ I’m looking to collaborate on 
 
 
