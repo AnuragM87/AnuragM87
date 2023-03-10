@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnuragM87
-- 👀 I’m interested in Web Development, Data Science
+- 👀 I’m interested in  cpp ,Data Science ,**MERN** 
 - 🌱 I’m currently learning Gloabal Payment Application
 - 📫 How to reach me https://www.linkedin.com/in/anurag-29/
  <!---
